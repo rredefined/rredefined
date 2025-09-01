@@ -1,4 +1,4 @@
-# 👋 Welcome to NaTDeveloper
+# 👋 Welcome to Redefined
 
 🚀 **Sysadmin. Designer. Automator. Creator.**  
 I build ultra-minimal, passwordless workflows and visually striking Discord + hosting experiences. Whether it's salvaging broken databases or crafting neon-cyan embeds, I thrive on precision, polish, and performance.
@@ -23,11 +23,11 @@ I build ultra-minimal, passwordless workflows and visually striking Discord + ho
 
 ## 🌐 Projects
 
-### 🧠 [Nexus Studios](https://nexustudios.in)  
+### 🧠 [RedefinedStudios](https://redefinedstudios.qzz.io/)  
 Creative tech lab powering hosting, community tools, and infrastructure innovation.  
 → GitHub-integrated, bleeding-edge backend powering PhoenixWings and future services.
 
-### 🔥 [PhoenixWings](https://phoenixwings.xyz)  
+### 🔥 [AltareHost](https://github.com/AltareHostt)  
 Next-gen hosting for Minecraft & Discord bots.  
 → Built on AMD EPYC & XEON VPS architecture. Free tier available. Enterprise-ready.
 
@@ -35,7 +35,7 @@ Next-gen hosting for Minecraft & Discord bots.
 
 ## 🔗 Ecosystem Diagram
 
-PhoenixWings is a flagship product powered by Nexus Studios infrastructure and backend logic.  
+AltareHost is a flagship product powered by Nexus Studios infrastructure and backend logic.  
 Here’s a visual map of how they connect:
 
 🖼️ *Diagram is ready below!*
@@ -44,8 +44,8 @@ Here’s a visual map of how they connect:
 
 ## 📬 Let’s Connect
 
-- 💬 Discord: `NaT#0001`
-- 🧠 GitHub: [NaTDeveloper](https://github.com/NaTDeveloper)
+- 💬 Discord: `RedefinedFr`
+- 🧠 GitHub: [rRedefined](https://github.com/rredefined)
 - 🧵 Threads: Iterating FAQs, embeds, and ad copy daily.
 
 ---
@@ -62,4 +62,4 @@ Here’s a visual map of how they connect:
 ---
 
 > ⚙️ _“Efficiency isn’t optional—it’s the baseline.”_  
-> _— NaT_
+> _— Redefined_
